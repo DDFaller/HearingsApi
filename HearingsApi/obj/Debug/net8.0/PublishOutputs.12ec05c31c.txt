@@ -1,0 +1,13 @@
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\HearingsApi.exe
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\data.json
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\HearingsApi.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\HearingsApi.deps.json
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\HearingsApi.runtimeconfig.json
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\HearingsApi.pdb
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
