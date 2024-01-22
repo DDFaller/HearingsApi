@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\.github\workflows\Hearings.yml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\Properties\PublishProfiles\Hearings - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

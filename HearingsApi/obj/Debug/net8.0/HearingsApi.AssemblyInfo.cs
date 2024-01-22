@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HearingsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb3d8976cc600b71e6bba81b6569abb5be0a2076")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+035b03076ba32810760bbb0bfbb4f1f279409eba")]
 [assembly: System.Reflection.AssemblyProductAttribute("HearingsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HearingsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,3 +33,9 @@ D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Rele
 D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\HearingsApi.pdb
 D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\HearingsApi.genruntimeconfig.cache
 D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\ref\HearingsApi.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\bin\Release\net8.0\System.Data.SqlClient.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

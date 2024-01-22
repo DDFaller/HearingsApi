@@ -11,3 +11,9 @@ D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Rele
 D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workspace\Villemor\HearingsApi-master\HearingsApi-master\HearingsApi\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
