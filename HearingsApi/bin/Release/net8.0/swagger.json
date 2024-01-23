@@ -21,7 +21,7 @@
             "schema": {
               "type": "array",
               "items": {
-                "$ref": "#/definitions/Hearing"
+                "$ref": "#/definitions/Hearings"
               }
             }
           }
@@ -44,16 +44,110 @@
             "schema": {
               "type": "array",
               "items": {
-                "$ref": "#/definitions/Hearing"
+                "$ref": "#/definitions/Hearings"
               }
             }
+          }
+        }
+      }
+    },
+    "/Hearings/{processNumber}": {
+      "get": {
+        "tags": [
+          "Hearings"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "processNumber",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Hearings"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "processNumber",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Hearings"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Hearings"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "processNumber",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Hearings/AddToDB": {
+      "post": {
+        "tags": [
+          "Hearings"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Hearings"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
           }
         }
       }
     }
   },
   "definitions": {
-    "Hearing": {
+    "Hearings": {
       "type": "object",
       "properties": {
         "processNumber": {
