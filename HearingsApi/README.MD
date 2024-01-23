@@ -1,6 +1,8 @@
 # Hearings API (Backend)
 
-The Hearings API is a backend service built with .NET Core, providing a robust solution for managing hearings data. This API allows users to perform CRUD operations on hearings, including retrieving, adding, updating, and deleting hearing records. Below, you'll find detailed information about setting up and utilizing the backend API.
+The Hearings API is a backend service built with .NET Core. This API allows users to perform CRUD operations on hearings, including retrieving, adding, updating, and deleting hearing records. Below, you'll find detailed information about setting up and utilizing the backend API.
+
+To acess the API directly, here is the [`link`](https://hearings.azurewebsites.net)
 
 ## Technologies Used
 
